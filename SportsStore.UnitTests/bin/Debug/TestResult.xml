@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Lindi Emoungu\Documents\Visual Studio 2010\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll" total="3" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2011-02-17" time="20:33:43">
+  <environment nunit-version="2.5.9.10348" clr-version="2.0.50727.4927" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="C:\Users\Lindi Emoungu\Documents\Visual Studio 2010\Projects\SportsStore\SportsStore.UnitTests\NUnit-2.5.9.10348\bin\net-2.0" machine-name="WIN-KPMM3JP1C16" user="Lindi Emoungu" user-domain="WIN-KPMM3JP1C16" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Lindi Emoungu\Documents\Visual Studio 2010\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll" executed="True" result="Success" success="True" time="0.188" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="SportsStore" executed="True" result="Success" success="True" time="0.188" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="UnitTests" executed="True" result="Success" success="True" time="0.188" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="CatalogBrowsing" executed="True" result="Success" success="True" time="0.016" asserts="0">
+                <results>
+                  <test-case name="SportsStore.UnitTests.CatalogBrowsing.Can_View_A_Single_Page_Of_Products" executed="True" result="Success" success="True" time="0.016" asserts="3" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="DisplayingPageLinks" executed="True" result="Success" success="True" time="0.172" asserts="0">
+                <results>
+                  <test-case name="SportsStore.UnitTests.DisplayingPageLinks.Can_Generate_Links_To_Other_Pages" executed="True" result="Success" success="True" time="0.156" asserts="1" />
+                  <test-case name="SportsStore.UnitTests.DisplayingPageLinks.Product_Lists_Include_Correct_Page_Numbers" executed="True" result="Success" success="True" time="0.000" asserts="4" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
